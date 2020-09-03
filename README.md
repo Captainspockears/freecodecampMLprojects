@@ -42,7 +42,7 @@ You can tweak epochs and batch size if you like, but it is not required.
 
 <div align=”center”><img src="https://user-images.githubusercontent.com/46392391/92091014-c799d100-eded-11ea-8e84-01e851fdaadd.jpeg" height="250"><div>
 
-## 3. [Book Recommendation Engine using KNN](Book%Recommender/fcc_book_recommendation_knn.ipynb)
+## 3. [Book Recommendation Engine using KNN](BookRecommender/fcc_book_recommendation_knn.ipynb)
 
 In this challenge, you will create a book recommendation algorithm using **K-Nearest Neighbors**.
 
